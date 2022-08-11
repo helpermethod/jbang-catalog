@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "p2e": {
+      "script-ref": "https://github.com/helpermethod/p2e/blob/main/p2e.java"
+    }
+  },
+  "templates": {}
+}
